@@ -2,7 +2,8 @@
 <br>
 ## Ensemble de l'exposition Infrarouge ##
 
-![Ensemble Infrarouge](/TP1/Centre_Des_Sciences/Photo_Expo/Photo_2_ensemble_exposition.png)
+(![Ensemble Infrarouge](https://github.com/user-attachments/assets/144cef90-fcbe-4575-ab81-d3521b602566)
+)
 
 <br>
 
