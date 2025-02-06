@@ -2,7 +2,7 @@
 <br>
 ## Ensemble de l'exposition Infrarouge ##
 
-![Ensemble Infrarouge](TP1/Centre_Des_Sciences/Photo_Expo/Photo 2 ensemble exposition.png)
+![Ensemble Infrarouge](TP1/Centre_Des_Sciences/Photo_Expo/Photo_2_ensemble_exposition.png)
 
 <br>
 
