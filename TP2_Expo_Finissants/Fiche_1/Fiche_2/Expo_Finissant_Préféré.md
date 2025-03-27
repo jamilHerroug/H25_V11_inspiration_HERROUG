@@ -49,9 +49,8 @@ Se pencher à gauche ou à droite pour tourner.
 
 Éviter des obstacles et terminer la course dans un temps optimal.
 <br>
-
+<br>
 Conclusion:
-
 ConDu8 est une expérience immersive qui allie effort physique et jeu vidéo. L'utilisation du vélo comme moyen de contrôle engage activement le joueur, offrant une immersion unique et interactive.
 
 Idées pour améliorer l'installation
@@ -64,4 +63,4 @@ Proposer différents environnements pour varier l'expérience.
 
 Références
 
-Toutes les photos ont été prises par Assil Ounissi avec un Samsung Galaxy S24 FE.📍Collège Montmorency, QC, Canada, salle C1712.
+Toutes les photos ont été prises par Assil Ounissi et Jamil Herroug.📍Collège Montmorency, QC, Canada, salle C1712.
