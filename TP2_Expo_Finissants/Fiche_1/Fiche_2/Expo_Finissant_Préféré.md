@@ -22,15 +22,14 @@ ConDu8 est une installation interactive où l'utilisateur incarne un motard qui 
 Description
 
 Installation
-![Ensemble de l'exposition](https://github.com/user-attachments/assets/1e475b6a-4646-44de-a1ad-10bd606205b4)
-<br>
+
 L'installation est composée de :
 <br>
 ![Le Vélo](https://github.com/user-attachments/assets/910996d6-1ed5-4ce1-9872-1859bac405a0)
 Un vélo stationnaire modifié pour détecter la vitesse du pédalage.
 
 Un capteur Kinect permettant de suivre l'inclinaison du joueur.
-
+![Ensemble de l'exposition](https://github.com/user-attachments/assets/1e475b6a-4646-44de-a1ad-10bd606205b4)
 Un écran de projection affichant le jeu en temps réel.
 
 Un système utilisant Maya, Blender, TouchDesigner, OscBridge, Unity et Reaper pour la création et l'animation du jeu.
