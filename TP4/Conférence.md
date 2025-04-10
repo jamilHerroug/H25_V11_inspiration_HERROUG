@@ -14,6 +14,8 @@ Elle a ensuite présenté l'œuvre Sphere Packing : Bach. Dans cette installatio
 Présentation de Shadow Tuner
 La conférencière a ensuite introduit Shadow Tuner, une œuvre particulièrement ambitieuse. Elle consiste en un immense ballon de 25 mètres de hauteur qui tourne sur lui-même, représentant un globe terrestre. Lorsque l'ombre d’un spectateur passe sur une ville spécifique, un extrait de station de radio locale est diffusé. Exposée sur une île aux Émirats Arabes Unis, cette œuvre fait face à des défis de conservation complexes liés au climat extrême de la région, notamment la corrosion et les intempéries.
 <br>
+![shadow_tuner_abu_dhabi_2023_lg_051](https://github.com/user-attachments/assets/d056aa09-c460-4455-a068-908ad5b1811e)
+<br>
 Conclusion
 En conclusion, j'ai trouvé la conférence à la fois enrichissante et bien structurée. Les sujets abordés étaient intéressants et présentés de manière claire. Cependant, malgré la qualité de la présentation, je n'ai pas été particulièrement convaincu par l'approche artistique du studio Rafael Lozano-Hemmer. Je doute que ce domaine puisse susciter mon intérêt à long terme.
 <br>
