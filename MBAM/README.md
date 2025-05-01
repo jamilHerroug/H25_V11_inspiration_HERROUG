@@ -10,6 +10,8 @@ Né à Tirana, Albanie, en 1974.
 <br>
 <br>
 ![Fiche Présentoire](/MBAM/Photo/fiche_presentoire.png)
+Fiche de présentation de l'oeuvre et de son auteur
+<br>
 <br>
 🎧Description
 Ravel Ravel Interval est une œuvre immersive jouant sur la répétition, le rythme et le
@@ -29,13 +31,15 @@ Ravel Ravel Interval, 2017
 -Sur 2 écrans transparents
 <br>
 ![Fiche Présentoire](/MBAM/Photo/double_ecran_profil.png)
+Photo des deux écrans transparent et l'effet que sa donne.
 <br>
-
+<br>
 -Installation sonore à 14 canaux
 <br>
 ![Fiche Présentoire](/MBAM/Photo/double_ecran_haut_parleur.png)
+Photo des deux écrans transparents et des 14 hauts parleurs
 <br>
-
+<br>
 -Durée : 20 minutes 45 secondes
 
 Don promis par Pierre Bourgie (390.2021)
@@ -43,13 +47,18 @@ Don promis par Pierre Bourgie (390.2021)
 Vues de l’exposition
 <br>
 ![Fiche Présentoire](/MBAM/Photo/double_ecran_piano_main.png)
+Un effet du double écrans sur la main et le piano
+<br>
 <br>
 ![Fiche Présentoire](/MBAM/Photo/effet_double_ecran_main.png)
+Un autre effet mais seulement pour la main
+<br>
 <br>
 🎼 Contexte & Expérience
 Anri Sala explore ici la superposition, le rythme et la désynchronisation. L’œuvre juxtapose deux interprétations de la même œuvre musicale de Maurice Ravel (Concerto pour la main gauche), créant un effet de boucle, de décalage et de résonance temporelle. Grâce aux écrans translucides et à la spatialisation sonore à 14 canaux, le spectateur est immergé dans une expérience sensorielle à la frontière de la musique et du geste.
 <br>
 ![Fiche Présentoire](/MBAM/Photo/effet_double_ecran_piano_main.png)
+Un autre effet du double écrans
 <br>
 <br>
 🟢 En résumé/Appréciation
