@@ -9,7 +9,7 @@ Anri Sala
 Né à Tirana, Albanie, en 1974.
 <br>
 <br>
-![Fiche_presentoire](./MBAM/Photo/Fiche_presentoire)
+![Fiche Présentoire](MBAM/Photo/fiche_presentoire.png)
 <br>
 🎧Description
 Ravel Ravel Interval est une œuvre immersive jouant sur la répétition, le rythme et le
