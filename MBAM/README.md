@@ -53,3 +53,6 @@ Anri Sala explore ici la superposition, le rythme et la désynchronisation. L’
 <br>
 ![20250403_145122](https://github.com/user-attachments/assets/aef076a8-0876-46ac-b9f1-eca1333a168a)
 <br>
+<br>
+🟢 En résumé/Appréciation
+Ravel Ravel Interval est une exposition marquante, à la fois conceptuelle et profondément sensorielle. Elle réussit à rendre tangible l’abstraction du temps et à faire de l’écoute une expérience spatiale. Une œuvre qui laisse une empreinte durable, non pas tant par ce qu’elle montre, mais par ce qu’elle fait ressentir.
