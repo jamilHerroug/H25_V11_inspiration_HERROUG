@@ -1,15 +1,15 @@
-# <ins>Le Détour – Rencontre Urbaine<ins>
+# <ins>Le Détour – Rencontre Urbaine</ins>
 <br>
-# <ins>Centre des mémoires montréalaises<ins>
+<ins>Centre des mémoires montréalaises</ins>
 <br>
-📍 # <ins>Lieu<ins>
+📍 Lieu
 Centre des mémoires montréalaises (MEM)
 1210, boul. Saint-Laurent, Montréal, QC
 🔗 memmtl.ca/programmation/detours
 mammelt.ca
 <br>
 <br>
-💡 # <ins>Concept<ins>
+💡 Concept
 Le Détour – Rencontre Urbaine est une exposition immersive et participative qui explore l’identité montréalaise à travers les récits de ses habitant·e·s. Conçue comme une promenade sensorielle et narrative, elle invite le visiteur à faire un détour, à ralentir et à porter attention aux détails de la ville qui souvent échappent au regard pressé du quotidien.
 <br>
 <br>
