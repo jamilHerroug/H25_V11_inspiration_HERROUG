@@ -1,8 +1,8 @@
 # <ins>Le Détour – Rencontre Urbaine</ins>
 <br>
-<ins>Centre des mémoires montréalaises</ins>
+## <ins>Centre des mémoires montréalaises</ins>
 <br>
-📍 Lieu
+📍 ### <ins>Lieux</ins>
 Centre des mémoires montréalaises (MEM)
 1210, boul. Saint-Laurent, Montréal, QC
 🔗 memmtl.ca/programmation/detours
