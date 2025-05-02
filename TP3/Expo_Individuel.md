@@ -1,4 +1,4 @@
-# <ins>Le Détour – Rencontre Urbaine</ins>
+<ins>Le Détour – Rencontre Urbaine</ins>
 <br>
 Centre des mémoires montréalaises
 <br>
