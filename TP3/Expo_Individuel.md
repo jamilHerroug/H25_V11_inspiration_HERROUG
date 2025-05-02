@@ -1,6 +1,6 @@
-##<ins>Le Détour – Rencontre Urbaine<ins>
+# <ins>Le Détour – Rencontre Urbaine<ins>
 <br>
-Centre des mémoires montréalaises
+##Centre des mémoires montréalaises
 <br>
 📍 Lieu
 Centre des mémoires montréalaises (MEM)
