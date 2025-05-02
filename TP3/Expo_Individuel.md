@@ -40,7 +40,7 @@ Une autre borne pour casque ou l'on peut aussi changer la langue entre le franç
 <br>
 -Cartographie sensible : un mur interactif permet de visualiser les parcours des participant·e·s et les souvenirs associés à différents lieux.
 <br>
-![Mur/Écran Interatif](/TP3/Photo/ecran_interpretation_demonstration.png)
+![Mur/Écran Interatif](/TP3/Photo/ecran_interpetation_demonstration.png)
 Écran d'illustration de propos lors d'un visionnage/écoute de l'expo.
 <br>
 <br>
