@@ -1,9 +1,9 @@
 # <ins>Le Détour – Rencontre Urbaine</ins>
 <br>
-<ins>Centre des mémoires montréalaises</ins>
+Centre des mémoires montréalaises
 <br>
 <br>
-📍 <ins>Lieux</ins>
+📍 Lieux
 Centre des mémoires montréalaises (MEM)
 1210, boul. Saint-Laurent, Montréal, QC
 🔗 memmtl.ca/programmation/detours
@@ -22,7 +22,7 @@ Parcours sonore et visuel dans l’espace urbain
 🧭 Parcours & Dispositifs
 -Installation immersive : les visiteurs déambulent dans un espace modulé par des cloisons, écrans et projections qui évoquent les détours urbains.
 <br>
-![20250306_185504](https://github.com/user-attachments/assets/3ec28daf-c377-4b39-8ce4-38da73a49101)
+![Cloison immersive](/MBAM/Photo/cloison_immersive_ecran.png)
 <br>
 ![20250306_185507](https://github.com/user-attachments/assets/ff6b697f-f85e-42c2-8281-b42a6b49b2ce)
 <br>
