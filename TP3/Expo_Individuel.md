@@ -22,16 +22,27 @@ Parcours sonore et visuel dans l’espace urbain
 🧭 Parcours & Dispositifs
 -Installation immersive : les visiteurs déambulent dans un espace modulé par des cloisons, écrans et projections qui évoquent les détours urbains.
 <br>
-![Cloison immersive](/MBAM/Photo/cloison_immersive_ecran.png)
+![Cloison immersive](/TP3/Photo/cloison_immersive_ecran.png)
+Une cloison d'immersion pour l'écoute tranquille.
 <br>
-![20250306_185507](https://github.com/user-attachments/assets/ff6b697f-f85e-42c2-8281-b42a6b49b2ce)
+![Cloison immersive](/TP3/Photo/borne_casque_cloison_immersive.png)
+Une borne pour les casques et pour changer la langue entre français et anglais.
+<br>
+![Cloison immersive](/TP3/Photo/tabouret_cloison_immersive.png)
+Un tabouret pouvant nous permettre de nous assesoir pour être confortable lors du visionnage.
+<br>
 <br>
 -Dispositifs sonores : des témoignages audio racontent des fragments de vie collectés à travers Montréal, diffusés via casques ou haut-parleurs directionnels.
 <br>
-![20250306_185205](https://github.com/user-attachments/assets/66cbd8a2-6e5f-4c44-848b-a632fe761100)
+![Borne d'écoute](/TP3/Photo/borne_casque_fr_ang.png)
+Une autre borne pour casque ou l'on peut aussi changer la langue entre le français et l'anglais.
+<br>
+<br>
 -Cartographie sensible : un mur interactif permet de visualiser les parcours des participant·e·s et les souvenirs associés à différents lieux.
 <br>
-![20250306_185940](https://github.com/user-attachments/assets/28519c8b-6605-4a5d-abc0-28e343590833)
+![Mur/Écran Interatif](/TP3/Photo/ecran_interpretation_demonstration.png)
+Écran d'illustration de propos lors d'un visionnage/écoute de l'expo.
+<br>
 <br>
 -Expériences participatives : les visiteurs peuvent contribuer en ajoutant leur propre histoire à une carte évolutive de la ville.
 <br>
@@ -39,18 +50,20 @@ Parcours sonore et visuel dans l’espace urbain
 🎨 Description
 Le Détour – Rencontre Urbaine est une exposition immersive qui invite les visiteur·euse·s à redécouvrir Montréal à travers une déambulation poétique dans le Quartier des spectacles. À l’aide de balises géolocalisées et d’un parcours audio guidé par téléphone intelligent, le public est amené à porter un regard neuf sur des lieux familiers.
 <br>
-![20250306_190325](https://github.com/user-attachments/assets/39f02541-5fd5-49d7-97e0-4fa2c9ed5be1)
 <br>
 Les témoignages, ambiances sonores et extraits littéraires diffusés tout au long du trajet tissent un récit sensible, mêlant mémoire personnelle et mémoire collective. Cette expérience urbaine multimédia encourage à ralentir, à observer et à entrer en résonance avec les récits invisibles qui peuplent la ville.
 <br>
-![20250306_190331](https://github.com/user-attachments/assets/204c056a-c8d4-4181-a0c8-aa1a9c213099)
 <br>
 <br>
 🎨 Direction artistique
 Une esthétique épurée mais chaleureuse, inspirée de l’univers urbain : textures de béton, tracés de rues, typographie manuscrite. La lumière tamisée et les tons neutres laissent place à la parole des Montréalais·es, véritable cœur de l’exposition.
 <br>
-![20250306_185949](https://github.com/user-attachments/assets/7227bdb9-db3b-47d5-a735-feac5c9b6a3c)
-![20250306_185940](https://github.com/user-attachments/assets/0c16acc4-7273-452f-9707-32e267aba03d)
+![Coussin de repos et immersion](/TP3/Photo/coussin_installation_immersive.png)
+Coussin de repos pour une écoute confortable pour l'écoute du long récit sur les queers.
+<br>
+![ÉÉcran exposition récit](/TP3/Photo/ecran_expo_recit.png)
+Écran de visionnage d'un récit montréalais sur les personnes queers.
+<br>
 <br>
 🧠 Intentions / enjeux
 -Créer une connexion intime entre les citoyen·ne·s et leur environnement urbain.
@@ -70,12 +83,6 @@ Une esthétique épurée mais chaleureuse, inspirée de l’univers urbain : tex
 -Contenu sonore original : narrations, témoignages, ambiances, compositions musicales.
 <br>
 -Affiches signalétiques dans le Quartier des spectacles.
-<br>
-<br>
-🧩 Interactivité
-🟢 L’utilisateur déclenche le contenu en se déplaçant dans la ville.
-🟡 L’expérience est linéaire mais dépend du rythme personnel de marche.
-🔴 Pas d’écran requis pendant l’expérience, mais un téléphone est indispensable.
 <br>
 <br>
 ✍️ Conception
